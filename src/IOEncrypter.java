@@ -1,5 +1,5 @@
 /**
- * This class writes out an encrypted stream and then decrypts an encrypted stream before
+ * This class writes out an encrypted stream and then decrypts it before
  * calling the IODecorator, which wraps a PrimaryIOManager. This prints the decrypted
  * output out to the screen.
  */
